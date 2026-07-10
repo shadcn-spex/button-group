@@ -1,0 +1,11 @@
+name: button-group
+org: shadcn-spex
+version: 0.1.0
+description: "Pins the rendering, orientation, keyboard focus, and ARIA contract of the shadcn/ui button-group container and its separator and text parts."
+license: MIT
+repository: https://github.com/shadcn-spex/button-group
+languages: [en]
+reference:
+  typescript:
+    agent: Claude Code
+    model: claude-fable-5
