@@ -1,5 +1,6 @@
 // Source: https://ui.shadcn.com/r/styles/new-york-v4/button-group.json
 // shadcn/ui — MIT License, Copyright (c) 2023 shadcn
+// Upstream dependencies (shadcn-ui/ui apps/v4/registry.json, 2026-07-10): registry [button, separator]; npm [] — Upstream also lists button; the pinned source imports only separator.
 import { cva, type VariantProps } from "class-variance-authority"
 import { Slot } from "radix-ui"
 
